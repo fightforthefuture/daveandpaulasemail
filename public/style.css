@@ -178,7 +178,7 @@ p.disclosure {
 
 p.disclosure a {color: #666;}
 
-.across form button {
+.across form button, a.btn {
 	float: right;
 	margin-right: 32px;
 	padding: 3px 10px;
