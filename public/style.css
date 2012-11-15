@@ -354,5 +354,6 @@ p.caption {
 }
 
 iframe {margin-bottom: 30px;}
-
-.mainimg {text-align: center; margin: 0 auto; margin-bottom: 5px;}
+.this {float: left; width: 240px; overflow: auto; padding-top: 100px;}
+.this img {display: block; text-align: center; margin-bottom: 10px; float: right; clear: right;}
+.mainimg {width: 400px; float: right; overflow: auto; margin-bottom: 20px; padding-right: 230px;}
